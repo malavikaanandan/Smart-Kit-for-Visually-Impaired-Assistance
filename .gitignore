@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# YOLO model files (large - download separately, see README)
+*.weights
+yolov3.cfg
+coco.names
+
+# Office temp files
+~$*
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Kept on this computer only - not for public upload
+# (third-party papers/figures, older drafts, personal screenshots)
+reserch papers/
+SAMPLE OTHER.pdf
+BLIND ASSISTANCE SYSTEM.pdf
+smart FINAL PPT.pptx
+smart kit final ppt.pptx
+images/RESULT.jpg
+images/prototype.jpg
+images/flowchart.jpg
+images/paperpresentn.png
+images/Screenshot 2025-02-25 224818.jpg
+images/Screenshot 2025-03-17 145239.jpg
+
+# Contain team register numbers - kept local only
+docs/Project_Report.docx
+docs/Presentation.pptx
